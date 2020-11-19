@@ -1,6 +1,6 @@
 # Social_Snapper
 ### Automate the boring and time-consuming stuff.
-### This tool is design to check if the user/content in a social media is active or not and based on this it create report with screenshot(including url and id).
+### This tool is design to check if the user/content in a social media is active or not and based on this it create report with screenshot(including url and id). 
 
 ### Download the repositry "git clone https[:]//github.com/shorabh1991/Social_Snapper.git"
 ### Download Geckodriver "https[:]//github.com/mozilla/geckodriver/releases"
@@ -18,6 +18,7 @@ PASSWORD = 'Your Facebook Password'
 ## RUN
 ```sh
 python3 main.py
+Format of excel file which you need to provide is uploaded. Kindly check the excel file which i have uploaded.
 ```
 ### Currently support
 | Social Networking site |
